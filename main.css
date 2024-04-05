@@ -1,1 +1,18 @@
-
+* {
+padding: 0;
+margin: 0;
+font-family: monospace;
+}
+ul {
+List-style: none;
+background: #22438C;
+}
+ul li {
+display: inline-block;
+position: relative;
+}
+ul li a {
+display: block;
+padding: 20px 25px;
+color: #FFF;
+text-decoration: none;
